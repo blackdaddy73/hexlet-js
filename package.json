@@ -8,5 +8,8 @@
   },
   "author": "Ildar Asanov",
   "license": "ISC",
-  "description": "My first steps"
+  "description": "My first steps",
+  "dependencies": {
+    "lodash": "^4.17.21"
+  }
 }
